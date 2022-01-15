@@ -2,7 +2,7 @@
 
 각 사이트별로 데이터 수집을 위한 크롤러 코드
 
-- selenium 이용
+- selenium 이용 / chromedriver 사용(not headless)
 
 - 국내/외 신발 유통 사이트를 가능한만큼 데이터를 얻어오고자 작성.
 
